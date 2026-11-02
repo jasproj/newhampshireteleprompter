@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newhampshireteleprompter.com/sitemap.xml
+
+# New Hampshire Teleprompter - Professional Teleprompter Services
+# Part of the National Teleprompter Network
+# A Claduta Corp Company
